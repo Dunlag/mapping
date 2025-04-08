@@ -47,7 +47,7 @@ python main.py
 
 El mapa generado se guardará en un archivo HTML y se puede abrir en cualquier navegador web.
 
-GitHub Pages
+## GitHub Pages
 Este proyecto está publicado en GitHub Pages. Puedes ver la versión en línea del mapa en el siguiente enlace:
 
 https://dunlag.github.io/mapping/
