@@ -57,4 +57,4 @@ map.add_child(fgp)
 map.add_child(folium.LayerControl())
 
 # Guardar el mapa en un archivo HTML
-map.save("./Map1.html")
+map.save("./index.html")
